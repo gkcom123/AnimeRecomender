@@ -1,0 +1,13 @@
+venv310/
+logs/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+db.sqlite3
+.env
+*.db
+*.sqlite3
+*.log
+ANIME_RECOMMENDER.egg-info/
