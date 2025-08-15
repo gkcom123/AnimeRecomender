@@ -1,4 +1,4 @@
-venv310/
+venv1510/
 logs/
 *.pyc
 __pycache__/
@@ -11,3 +11,4 @@ db.sqlite3
 *.sqlite3
 *.log
 ANIME_RECOMMENDER.egg-info/
+chroma_dir

@@ -8,3 +8,4 @@ python-dotenv
 sentence-transformers
 langchain_huggingface
 langchain-chroma
+numpy<2.0.0
